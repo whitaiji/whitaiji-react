@@ -6,3 +6,4 @@ export const ExampleComponent = ({ text }) => {
 }
 
 export { default as VisDiv } from './VisDiv';
+export { default as Loading } from './Loading';
