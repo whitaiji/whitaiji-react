@@ -4,7 +4,7 @@ import { ExampleComponent } from 'whitaiji-react'
 import 'whitaiji-react/dist/index.css'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Examples 😄" />
+  return <ExampleComponent text="Create React Library Examplesss 😄" />
 }
 
 export default App
